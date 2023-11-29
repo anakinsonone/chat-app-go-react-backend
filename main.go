@@ -32,6 +32,8 @@ func setupRoutes() {
 	})
 }
 
+// Just writing comments and raising PRs to test github app.
+
 func main() {
 	fmt.Println("Distributed Chat App v0.01")
 	setupRoutes()
